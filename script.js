@@ -1,4 +1,4 @@
-let apiKey = "41c396ea0383957b1d2c142921ae54ff ";
+let apiKey = "APi_KEY";
 let apiURL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 let inputBox = document.getElementById('inputBox');
